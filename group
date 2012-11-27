@@ -63,3 +63,4 @@ saned:x:123:
 francois:x:1000:
 sambashare:x:124:francois
 vboxsf:x:1001:
+test:x:1002:
